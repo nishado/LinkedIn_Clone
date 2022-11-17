@@ -262,6 +262,7 @@ fa-caret-down {
 .bodyleft {
     float: left;
     height: 1000000px;
+   
 }
 
 .bodyLeftTop {
@@ -271,6 +272,7 @@ fa-caret-down {
     margin-top: 25px;
     margin-left: 195px;
     border-radius: 12px;
+    
 
 
 }
@@ -366,6 +368,7 @@ fa-caret-down {
     margin-top: 4px;
     margin-left: 13px;
     font-weight: normal;
+
 }
 
 .leftTopMiddle1 h5 {
@@ -375,6 +378,7 @@ fa-caret-down {
     margin-top: 2px;
     margin-left: 49px;
     font-weight: normal;
+ 
 }
 
 .leftTopMiddle1:hover {
@@ -519,6 +523,7 @@ fa-caret-down {
     margin-top: -23px;
     margin-left: 195px;
     border-radius: 12px;
+
 }
 
 .bodyleftmiddle h6 {
@@ -526,6 +531,7 @@ fa-caret-down {
     padding-left: 24px;
     padding-top: 13px;
     font-size: 14px;
+  
 
 }
 
@@ -1086,6 +1092,7 @@ fa-caret-down {
 }
 
 .bodypost1para {
+    margin-top: 8px;
     width: 515px;
     height: 85px;
     float: left;
@@ -1107,7 +1114,7 @@ fa-caret-down {
 }
 
 .bodypost1image img {
-    width: 540;
+    width: 540px;
     height: 520px;
 }
 
@@ -1322,6 +1329,844 @@ fa-caret-down {
     margin-top: 17px;
     margin-left: 14px;
 }
+
+.bodypost2 {
+    margin-top: 20px;
+
+    height: 814px;
+    width: 543px;
+    background-color: white;
+    border-radius: 12px;
+}
+
+.bodypost2A {
+    width: 513px;
+    height: 40px;
+    margin-left: 15px;
+    border-bottom: 1px solid rgba(0, 0, 0, .15);
+    float: left;
+}
+
+.bodypost2A img {
+    height: 24px;
+    width: 24px;
+    border-radius: 49.9%;
+    margin-top: 9px;
+    float: left
+}
+
+.bodypost2A h6 {
+    float: left;
+    margin-top: 14px;
+    margin-left: 9px;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.bodypost2A h5 {
+    float: left;
+    margin-top: 17px;
+    margin-left: 2px;
+    font-size: 11px;
+    font-weight: normal;
+    color: gray;
+}
+
+.bodypost2A svg {
+    float: left;
+    margin-top: 2px;
+    margin-left: 0px;
+    font-size: 11px;
+    font-weight: normal;
+    color: gray;
+}
+
+.bodypost2A3dot {
+    background-color: white;
+    height: 26px;
+    width: 26px;
+    border-radius: 49.9%;
+    margin-top: 9px;
+    float: right
+}
+
+.bodypost2A3dot:hover {
+    background-color: rgba(0, 0, 0, .15);
+    cursor: pointer;
+
+}
+
+.bodypost2B {
+    width: 100%;
+    height: 67px;
+    float: left;
+}
+
+.bodypost2B1 {
+    width: 67px;
+    height: 67px;
+    float: left;
+
+}
+
+.bodypost2Name {
+    width: 300px;
+    height: 21px;
+    margin-top: 7px;
+    float: left;
+
+}
+
+.bodypost2Name h6 {
+    margin: 0;
+    font-size: 13px;
+    float: left;
+
+}
+
+.bodypost2Name h5 {
+    margin: 0;
+    margin-top: -4px;
+    font-size: 13px;
+    margin-left: 3px;
+    float: left;
+    color: gray;
+
+}
+
+.bodypost2Name h4 {
+    margin: 0;
+    font-size: 14px;
+    float: left;
+    color: gray;
+    margin-left: 4px;
+    font-weight: normal;
+
+}
+
+.bodypost2Designation {
+    width: 389px;
+    height: 37px;
+    float: left;
+    margin-top: -2px;
+}
+
+.bodypost2Designation h6 {
+    margin: 0;
+    font-size: 12px;
+    float: left;
+    color: gray;
+    font-weight: normal;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+
+}
+
+.bodypost2Designation h4 {
+    margin: 0;
+    margin-top: 0px;
+    font-size: 13px;
+    margin-left: 3px;
+    float: left;
+    color: gray;
+    font-weight: normal;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+
+}
+
+.bodypost2Designation h5 {
+    margin: 0;
+    margin-top: -4px;
+    font-size: 13px;
+    margin-left: 3px;
+    float: left;
+    color: gray;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+
+
+}
+
+.bodypost2Designation svg {
+    color: gray;
+    margin-left: 3px;
+
+}
+
+
+
+.bodypost2follow {
+    height: 30px;
+    width: 72px;
+    margin-top: 1px;
+    float: left;
+    margin-left: 7px;
+    border-radius: 4px;
+}
+
+.bodypost2follow:hover {
+    background-color: #E4F0FE;
+    cursor: pointer;
+}
+
+.bodypost2follow h3 {
+    font-size: 16px;
+    margin-top: 3px;
+    margin-left: 2px;
+    color: #0B66C2;
+    font-weight: normal;
+
+}
+
+.bodypost2para {
+    width: 515px;
+    height: 85px;
+    float: left;
+    margin-left: 13px;
+}
+
+.bodypost2para h6 {
+    color: black;
+    font-weight: normal;
+    font-size: 13px;
+    margin: 0;
+
+}
+
+.bodypost2image {
+    width: 100%;
+    height: 520px;
+    float: left;
+}
+
+.bodypost2image img {
+    width: 540;
+    height: 520px;
+}
+
+.bodypost2likeComment {
+    width: 100%;
+    height: 35px;
+    float: left;
+
+}
+
+.bodypost2likeComment img {
+    height: 30px;
+    width: 54px;
+    float: left;
+    margin-left: 6px;
+    margin-top: 2px;
+
+}
+
+.bodypost2likeComment h6 {
+    margin: 0;
+    float: left;
+    margin-top: 8px;
+    margin-left: 9px;
+    font-size: 13px;
+    font-weight: 100;
+    color: gray;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
+
+}
+
+.bodypost2likeComment h5 {
+    float: left;
+    margin: 0;
+    margin-left: 150px;
+    margin-top: 9px;
+    font-size: 13px;
+    font-weight: 100;
+    color: gray;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
+
+.bodypost2likeComment h4 {
+    float: left;
+    font-size: 13px;
+    margin-left: 4px;
+    margin-top: 4px;
+    color: gray;
+
+}
+
+.bodypost2likeComment h3 {
+    float: left;
+    font-size: 13px;
+    font-weight: 100;
+    color: gray;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 5px;
+    margin-top: 10px;
+
+}
+
+.bodypost2likeCommenthr hr {
+    width: 508px;
+    margin: 0;
+    color: gray;
+    margin-left: 16px;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, .15);
+    float: left;
+    margin-top: 8px;
+}
+
+.bodypost2likeCommentrepost {
+    width: 100%;
+    float: left;
+    height: 41px;
+    background-color: white;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    margin-top: 23px;
+
+}
+
+.bodypost2icons1 {
+
+    height: 48px;
+    width: 93px;
+    margin-top: -16px;
+    margin-left: 19px;
+    border-radius: 6px;
+}
+
+.bodypost2icons1:hover {
+    background-color: #EBEBEB;
+    cursor: pointer;
+}
+
+.bodypost2icons1 h4 {
+    font-size: 14px;
+    color: gray;
+    font-weight: normal;
+    margin-top: -28px;
+    margin-left: 53px;
+
+}
+
+.bodypost2icons1 svg {
+    margin-left: 13px;
+    color: rgb(109, 108, 108);
+    padding-top: 12px;
+    padding-left: 6px;
+
+}
+
+.bodypost2icons2 {
+    height: 48px;
+    width: 119px;
+    margin-top: -49px;
+    margin-left: 138px;
+    border-radius: 6px;
+}
+
+.bodypost2icons2:hover {
+    background-color: #EBEBEB;
+    cursor: pointer;
+}
+
+.bodypost2icons2 h4 {
+    font-size: 14px;
+    color: gray;
+    font-weight: normal;
+    margin-top: -28px;
+    margin-left: 41px;
+
+}
+
+.bodypost2icons2 svg {
+    color: rgb(109, 108, 108);
+    padding-top: 12px;
+    padding-left: 6px;
+
+}
+
+.bodypost2icons3 {
+
+    height: 48px;
+    width: 105px;
+    margin-top: -47px;
+    margin-left: 273px;
+    border-radius: 6px;
+}
+
+.bodypost2icons3:hover {
+    background-color: #EBEBEB;
+    cursor: pointer;
+}
+
+.bodypost2icons3 h4 {
+    font-size: 14px;
+    color: gray;
+    font-weight: normal;
+    margin-top: -23px;
+    margin-left: 45px;
+
+}
+
+.bodypost2icons3 svg {
+    color: rgb(109, 108, 108);
+    padding-top: 12px;
+    padding-left: 6px;
+
+}
+
+.bodypost2icons4 {
+    height: 48px;
+    width: 137px;
+    margin-top: -48px;
+    margin-left: 392px;
+    border-radius: 6px;
+
+}
+
+.bodypost2icons4:hover {
+    background-color: #EBEBEB;
+    cursor: pointer;
+}
+
+.bodypost2icons4 h4 {
+    font-size: 14px;
+    color: gray;
+    font-weight: normal;
+    margin-top: -28px;
+    margin-left: 56px;
+}
+
+.bodypost2icons4 svg {
+    color: rgb(109, 108, 108);
+    padding-top: 12px;
+    padding-left: 29px;
+
+}
+
+.bodypost2icons3 i {
+    margin-top: 17px;
+    margin-left: 14px;
+}
+
+
+.bodypost3 {
+    margin-top: 20px;
+    height: 597px;
+    width: 543px;
+    background-color: white;
+    border-radius: 12px;
+}
+
+.bodypost3A {
+    width: 513px;
+    height: 40px;
+    margin-left: 15px;
+    border-bottom: 1px solid rgba(0, 0, 0, .15);
+    float: left;
+}
+
+.bodypost3A img {
+    height: 24px;
+    width: 24px;
+    border-radius: 49.9%;
+    margin-top: 9px;
+    float: left
+}
+
+.bodypost3A h6 {
+    float: left;
+    margin-top: 14px;
+    margin-left: 9px;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.bodypost3A h5 {
+    float: left;
+    margin-top: 17px;
+    margin-left: 2px;
+    font-size: 11px;
+    font-weight: normal;
+    color: gray;
+}
+
+.bodypost3A svg {
+    float: left;
+    margin-top: 2px;
+    margin-left: 0px;
+    font-size: 11px;
+    font-weight: normal;
+    color: gray;
+}
+
+.bodypost3A3dot {
+    background-color: white;
+    height: 26px;
+    width: 26px;
+    border-radius: 49.9%;
+    margin-top: 9px;
+    float: right
+}
+
+.bodypost3A3dot:hover {
+    background-color: rgba(0, 0, 0, .15);
+    cursor: pointer;
+
+}
+
+.bodypost3B {
+    width: 100%;
+    height: 67px;
+    float: left;
+}
+
+.bodypost3B1 {
+    width: 67px;
+    height: 67px;
+    float: left;
+
+}
+
+.bodypost3Name {
+    width: 300px;
+    height: 21px;
+    margin-top: 7px;
+    float: left;
+
+}
+
+.bodypost3Name h6 {
+    margin: 0;
+    font-size: 13px;
+    float: left;
+
+}
+
+.bodypost3Name h5 {
+    margin: 0;
+    margin-top: -4px;
+    font-size: 13px;
+    margin-left: 3px;
+    float: left;
+    color: gray;
+
+}
+
+.bodypost3Name h4 {
+    margin: 0;
+    font-size: 14px;
+    float: left;
+    color: gray;
+    margin-left: 4px;
+    font-weight: normal;
+
+}
+
+.bodypost3Designation {
+    width: 389px;
+    height: 37px;
+    float: left;
+    margin-top: -2px;
+}
+
+.bodypost3Designation h6 {
+    margin: 0;
+    font-size: 12px;
+    float: left;
+    color: gray;
+    font-weight: normal;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+
+}
+
+.bodypost3Designation h4 {
+    margin: 0;
+    margin-top: 0px;
+    font-size: 13px;
+    margin-left: 3px;
+    float: left;
+    color: gray;
+    font-weight: normal;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+
+}
+
+.bodypost3Designation h5 {
+    margin: 0;
+    margin-top: -4px;
+    font-size: 13px;
+    margin-left: 3px;
+    float: left;
+    color: gray;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+
+}
+
+.bodypost3Designation svg {
+    color: gray;
+    margin-left: 3px;
+
+}
+
+
+.bodypost3follow {
+    height: 30px;
+    width: 72px;
+    margin-top: 1px;
+    float: left;
+    margin-left: 7px;
+    border-radius: 4px;
+}
+
+.bodypost3follow:hover {
+    background-color: #E4F0FE;
+    cursor: pointer;
+}
+
+.bodypost3follow h3 {
+    font-size: 16px;
+    margin-top: 3px;
+    margin-left: 2px;
+    color: #0B66C2;
+    font-weight: normal;
+
+}
+
+.bodypost3para {
+    width: 515px;
+    height: 85px;
+    float: left;
+    margin-left: 13px;
+}
+
+.bodypost3para h6 {
+    color: black;
+    font-weight: normal;
+    font-size: 13px;
+    margin: 0;
+
+}
+
+.bodypost3image {
+    width: 100%;
+    height: 307px;
+    float: left;
+}
+
+.bodypost3image img {
+    width: 540;
+    height: 520px;
+}
+
+.bodypost3likeComment {
+    width: 100%;
+    height: 35px;
+    float: left;
+
+}
+
+.bodypost3likeComment img {
+    height: 30px;
+    width: 54px;
+    float: left;
+    margin-left: 6px;
+    margin-top: 2px;
+
+}
+
+.bodypost3likeComment h6 {
+    margin: 0;
+    float: left;
+    margin-top: 8px;
+    margin-left: 9px;
+    font-size: 13px;
+    font-weight: 100;
+    color: gray;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
+
+.bodypost3likeComment h5 {
+    float: left;
+    margin: 0;
+    margin-left: 150px;
+    margin-top: 9px;
+    font-size: 13px;
+    font-weight: 100;
+    color: gray;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
+
+.bodypost3likeComment h4 {
+    float: left;
+    font-size: 13px;
+    margin-left: 4px;
+    margin-top: 4px;
+    color: gray;
+
+}
+
+.bodypost3likeComment h3 {
+    float: left;
+    font-size: 13px;
+    font-weight: 100;
+    color: gray;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 5px;
+    margin-top: 10px;
+
+}
+
+.bodypost3likeCommenthr hr {
+    width: 508px;
+    margin: 0;
+    color: gray;
+    margin-left: 16px;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, .15);
+    float: left;
+    margin-top: 8px;
+}
+
+.bodypost3likeCommentrepost {
+    width: 100%;
+    float: left;
+    height: 41px;
+    background-color: white;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    margin-top: 23px;
+
+}
+
+.bodypost3icons1 {
+
+    height: 48px;
+    width: 93px;
+    margin-top: -16px;
+    margin-left: 19px;
+    border-radius: 6px;
+}
+
+.bodypost3icons1:hover {
+    background-color: #EBEBEB;
+    cursor: pointer;
+}
+
+.bodypost3icons1 h4 {
+    font-size: 14px;
+    color: gray;
+    font-weight: normal;
+    margin-top: -28px;
+    margin-left: 53px;
+
+}
+
+.bodypost3icons1 svg {
+    margin-left: 13px;
+    color: rgb(109, 108, 108);
+    padding-top: 12px;
+    padding-left: 6px;
+
+}
+
+.bodypost3icons2 {
+    height: 48px;
+    width: 119px;
+    margin-top: -49px;
+    margin-left: 138px;
+    border-radius: 6px;
+}
+
+.bodypost3icons2:hover {
+    background-color: #EBEBEB;
+    cursor: pointer;
+}
+
+.bodypost3icons2 h4 {
+    font-size: 14px;
+    color: gray;
+    font-weight: normal;
+    margin-top: -28px;
+    margin-left: 41px;
+
+}
+
+.bodypost3icons2 svg {
+    color: rgb(109, 108, 108);
+    padding-top: 12px;
+    padding-left: 6px;
+
+}
+
+.bodypost3icons3 {
+
+    height: 48px;
+    width: 105px;
+    margin-top: -47px;
+    margin-left: 273px;
+    border-radius: 6px;
+}
+
+.bodypost3icons3:hover {
+    background-color: #EBEBEB;
+    cursor: pointer;
+}
+
+.bodypost3icons3 h4 {
+    font-size: 14px;
+    color: gray;
+    font-weight: normal;
+    margin-top: -23px;
+    margin-left: 45px;
+
+}
+
+.bodypost3icons3 svg {
+    color: rgb(109, 108, 108);
+    padding-top: 12px;
+    padding-left: 6px;
+
+}
+
+.bodypost3icons4 {
+    height: 48px;
+    width: 137px;
+    margin-top: -48px;
+    margin-left: 392px;
+    border-radius: 6px;
+
+}
+
+.bodypost3icons4:hover {
+    background-color: #EBEBEB;
+    cursor: pointer;
+}
+
+.bodypost3icons4 h4 {
+    font-size: 14px;
+    color: gray;
+    font-weight: normal;
+    margin-top: -28px;
+    margin-left: 56px;
+}
+
+.bodypost3icons4 svg {
+    color: rgb(109, 108, 108);
+    padding-top: 12px;
+    padding-left: 29px;
+
+}
+
+.bodypost3icons3 i {
+    margin-top: 17px;
+    margin-left: 14px;
+}
+
+
+
 
 /* -----------------------------------THIS IS BODY RIGHT------------------------------------------------------ */
 .bodyright {
@@ -1856,9 +2701,10 @@ fa-caret-down {
 }
 
 .bodyright2follow:hover {
+    border: 2px solid #0B66C2;
     background-color: #E4F0FE;
     cursor: pointer;
-    border: 2px solid #0B66C2;
+    
 }
 
 .bodyrightfooter {
